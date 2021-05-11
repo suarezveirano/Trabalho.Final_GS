@@ -1,0 +1,14 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+R Notebook
+Metadata_DF
+Uma explicação sobre o banco de dados e as diferentes variáveis é apresentada no arquivo de metadados.
+
+São cerca de 4 arquivos .csv que contêm as informações de 4 leituras em dias diferentes dos mesmos indivíduos (Setembro.csv; Outubro.csv; Novembro.csv; Dezembro.csv)
+
+Atributos: Etiqueta da columna e Nome = Definición; Tipo de Valores; Tipo de Medida
+
+ide = número que identifica individuo; Variable chr Fecha = día que se realizó la determinación; Variable Date Hora = hora que se realizó la determinación; Variable num Condicion A = Registro de la presencia de una enfermedad A, Variable Factor Condicion B = Registro de la presencia de una enfermedad B, Variable Factor Condicion C = Registro de la presencia de una enfermedad C, Variable Factor GRUPO = Grupo de estudio al que pertence cada ide; Variable Factor; tres grupos PESO = dato en kilos de los ide que se registro; Variable Num; atención existe un número importante de ide que no cuenta con datos
